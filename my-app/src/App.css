@@ -1,0 +1,27 @@
+h1 {
+  text-align: center;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  
+}
+
+.nav-container-menu {
+  width: 100%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+.nav-container-menu li {
+
+  list-style: none;
+  padding: 10px;
+}
+.nav-container-menu .nav-container-menu-items {
+  padding-left: 50px;
+  overflow: hidden;
+}
+.nav-container-menu-items > li {
+  float: left;
+}
