@@ -3,7 +3,7 @@ import React from "react";
 const MovieLikeList = () => {
   return (
     <div>
-      <header>Movie Like List</header>
+      <header>Movie Like Lists</header>
     </div>
   );
 };
